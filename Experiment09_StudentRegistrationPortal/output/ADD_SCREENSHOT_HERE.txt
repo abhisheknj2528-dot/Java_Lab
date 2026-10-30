@@ -1,0 +1,1 @@
+Place screenshots of both tabs and of the students table in MySQL here.

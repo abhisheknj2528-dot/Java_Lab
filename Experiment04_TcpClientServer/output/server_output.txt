@@ -1,0 +1,11 @@
+
+[SERVER] Starting TCP Server on port 5000...
+[SERVER] Server is listening. Awaiting client connection...
+[SERVER] Client connected: /127.0.0.1:45162
+[CLIENT]: Hello Server
+[SERVER ENTER REPLY]: Reply from server: Hello Client!
+[CLIENT]: How are you?
+[SERVER ENTER REPLY]: 
+[CLIENT]: bye
+[SERVER] Client disconnected.
+[SERVER] Session closed.

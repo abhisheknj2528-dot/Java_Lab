@@ -1,0 +1,11 @@
+
+[CLIENT] Connecting to TCP Server at localhost:5000...
+[CLIENT] Successfully connected to Server!
+[SERVER]: Connected to TCP Server! Type messages, or 'bye' to disconnect.
+[CLIENT ENTER MESSAGE]: Hello Server
+[SERVER]: Reply from server: Hello Client!
+[CLIENT ENTER MESSAGE]: How are you?
+[SERVER]: ACK: HOW ARE YOU?
+[CLIENT ENTER MESSAGE]: bye
+[CLIENT] Disconnecting...
+[CLIENT] Connection closed cleanly.

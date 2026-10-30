@@ -1,0 +1,68 @@
+
+[RMI CLIENT] Connecting to RMI Registry on localhost:1099...
+[RMI CLIENT] Remote CalculatorService stub acquired successfully!
+
+----------------------------------------------
+Select Remote Operation:
+  1. Addition    (a + b)
+  2. Subtraction (a - b)
+  3. Multiply    (a * b)
+  4. Execute All Three Operations
+  5. Exit Client
+Enter choice (1-5): 1
+Enter number a: 10
+Enter number b: 5
+
+[INVOKING REMOTE METHOD VIA NETWORK...]
+>>> REMOTE RESULT: 10.00 + 5.00 = 15.00
+----------------------------------------------
+Select Remote Operation:
+  1. Addition    (a + b)
+  2. Subtraction (a - b)
+  3. Multiply    (a * b)
+  4. Execute All Three Operations
+  5. Exit Client
+Enter choice (1-5): 2
+Enter number a: 10
+Enter number b: 5
+
+[INVOKING REMOTE METHOD VIA NETWORK...]
+>>> REMOTE RESULT: 10.00 - 5.00 = 5.00
+----------------------------------------------
+Select Remote Operation:
+  1. Addition    (a + b)
+  2. Subtraction (a - b)
+  3. Multiply    (a * b)
+  4. Execute All Three Operations
+  5. Exit Client
+Enter choice (1-5): 3
+Enter number a: 10
+Enter number b: 5
+
+[INVOKING REMOTE METHOD VIA NETWORK...]
+>>> REMOTE RESULT: 10.00 * 5.00 = 50.00
+----------------------------------------------
+Select Remote Operation:
+  1. Addition    (a + b)
+  2. Subtraction (a - b)
+  3. Multiply    (a * b)
+  4. Execute All Three Operations
+  5. Exit Client
+Enter choice (1-5): 4
+Enter number a: 12.5
+Enter number b: 2
+
+[INVOKING REMOTE METHOD VIA NETWORK...]
+=== COMPREHENSIVE REMOTE RESULTS ===
+Addition       : 12.50 + 2.00 = 14.50
+Subtraction    : 12.50 - 2.00 = 10.50
+Multiplication : 12.50 * 2.00 = 25.00
+----------------------------------------------
+Select Remote Operation:
+  1. Addition    (a + b)
+  2. Subtraction (a - b)
+  3. Multiply    (a * b)
+  4. Execute All Three Operations
+  5. Exit Client
+Enter choice (1-5): 5
+[RMI CLIENT] Exiting. Goodbye!

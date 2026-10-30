@@ -1,0 +1,1 @@
+Place your screenshot(s) here, plus a screenshot of SELECT * FROM user_credentials; in MySQL.

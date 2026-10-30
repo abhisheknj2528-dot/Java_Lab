@@ -1,0 +1,1 @@
+Place screenshots of each CRUD operation and of the VIEW ALL dialog here.

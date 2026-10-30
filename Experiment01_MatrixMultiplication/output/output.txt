@@ -1,0 +1,47 @@
+=== RUN 1: VALID INPUT ===
+Enter number of rows in Matrix A (r1): 2
+Enter number of columns in Matrix A (c1): 3
+Enter number of rows in Matrix B (r2): 3
+Enter number of columns in Matrix B (c2): 2
+
+Enter elements of Matrix A (2x3):
+A[0][0]: 1
+A[0][1]: 2
+A[0][2]: 3
+A[1][0]: 4
+A[1][1]: 5
+A[1][2]: 6
+
+Enter elements of Matrix B (3x2):
+B[0][0]: 7
+B[0][1]: 8
+B[1][0]: 9
+B[1][1]: 10
+B[2][0]: 11
+B[2][1]: 12
+
+--- Matrix A (2x3) ---
+     1     2     3
+     4     5     6
+
+--- Matrix B (3x2) ---
+     7     8
+     9    10
+    11    12
+
+--- Product Matrix C = A x B (2x2) ---
+    58    64
+   139   154
+
+==================================================
+Matrix multiplication finished successfully.
+
+
+=== RUN 2: INVALID DIMENSIONS ===
+Enter number of rows in Matrix A (r1): 2
+Enter number of columns in Matrix A (c1): 3
+Enter number of rows in Matrix B (r2): 2
+Enter number of columns in Matrix B (c2): 2
+
+[ERROR] Matrix multiplication is NOT possible!
+Condition: Columns of Matrix A (3) must equal Rows of Matrix B (2).

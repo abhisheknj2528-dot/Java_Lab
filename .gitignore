@@ -1,0 +1,16 @@
+# Compiled / runtime files
+*.class
+*.ser
+*.db
+
+# IDE files
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database driver jars (download separately)
+*.jar

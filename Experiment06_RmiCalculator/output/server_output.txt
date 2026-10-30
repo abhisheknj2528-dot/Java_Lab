@@ -1,0 +1,11 @@
+
+[RMI SERVER] Initializing server on port 1099...
+[RMI SERVER] RMI Registry created on port 1099
+[RMI SERVER] Service 'CalculatorService' bound and ready.
+[RMI SERVER] Awaiting remote client invocations...
+[RMI SERVER EXECUTING] addition(10.00, 5.00)
+[RMI SERVER EXECUTING] subtraction(10.00, 5.00)
+[RMI SERVER EXECUTING] multiply(10.00, 5.00)
+[RMI SERVER EXECUTING] addition(12.50, 2.00)
+[RMI SERVER EXECUTING] subtraction(12.50, 2.00)
+[RMI SERVER EXECUTING] multiply(12.50, 2.00)
